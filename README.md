@@ -65,5 +65,7 @@
 
 ### 🖥️ Open-Source Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuejia-Lai&repo=bilibili)](https://github.com/Yuejia-Lai/bilibili)
+[![bilibili](https://github-readme-stats.vercel.app/api/pin/?username=Yuejia-Lai&repo=bilibili)](https://github.com/Yuejia-Lai/bilibili)
 
+
+[![simpleframework](https://github-readme-stats.vercel.app/api/pin/?username=Yuejia-Lai&repo=simpleframework)](https://github.com/Yuejia-Lai/simpleframework)
