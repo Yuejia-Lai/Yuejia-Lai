@@ -18,7 +18,14 @@
 
 **Languages and Frameworks**
 
-![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge) ![](https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge) ![](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge) ![](https://img.shields.io/badge/-Spring%20MVC-9cf?style=for-the-badge) ![](https://img.shields.io/badge/-Spring%20Cloud-blue?style=for-the-badge) ![](https://img.shields.io/badge/-MyBatis-red?style=for-the-badge)  
+<div align="center">
+<img src="https://img.shields.io/badge/-Java-important?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Spring%20MVC-9cf?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Spring%20Cloud-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-MyBatis-red?style=for-the-badge" />
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuejia-Lai&layout=compact"/>
@@ -28,15 +35,32 @@
 
 **Components and middleware**
 
- ![](https://img.shields.io/badge/-RabbitMQ%20%26%20RocketMQ%20%26%20Kafka-ff69b4) ![](https://img.shields.io/badge/-ElasticSearch%20%26%20Kibana-blueviolet) ![](https://img.shields.io/badge/-Eureka%20%26%20Nacos-green) ![](https://img.shields.io/badge/-Zuul%20%26%20Gateway-dc88a1) ![](https://img.shields.io/badge/-Redis-critical)
-
- ![](https://img.shields.io/badge/-Docker-83ef12) ![](https://img.shields.io/badge/-WebSocket-1af442) ![](https://img.shields.io/badge/-FastDFS%20%26%20MinIO-inactive) ![](https://img.shields.io/badge/-MySQL-yellow) ![](https://img.shields.io/badge/-MongoDB-black) ![](https://img.shields.io/badge/-Nginx-pink) 
+<div align="center">
+<img src="https://img.shields.io/badge/-RabbitMQ%20%26%20RocketMQ%20%26%20Kafka-ff69b4" />
+<img src="https://img.shields.io/badge/-ElasticSearch%20%26%20Kibana-blueviolet" />
+<img src="https://img.shields.io/badge/-Eureka%20%26%20Nacos-green" />
+<img src="https://img.shields.io/badge/-Zuul%20%26%20Gateway-dc88a1" />
+<img src="https://img.shields.io/badge/-Redis-critical" />
+<img src="https://img.shields.io/badge/-Docker-83ef12" />
+<img src="https://img.shields.io/badge/-WebSocket-1af442"/>
+<img src="https://img.shields.io/badge/-FastDFS%20%26%20MinIO-inactive" />
+<img src="https://img.shields.io/badge/-MySQL-yellow" />
+<img src="https://img.shields.io/badge/-MongoDB-black" />
+<img src="https://img.shields.io/badge/-Nginx-pink"/>
+</div>
 
 ---
 
 **Other**
 
-![](https://img.shields.io/badge/-SQL-yellowgreen) ![](https://img.shields.io/badge/-Linux-71aa29) ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-Git-purple) ![](https://img.shields.io/badge/-Maven-grey) 
+<div align="center">
+<img src="https://img.shields.io/badge/-SQL-yellowgreen"/>
+<img src="https://img.shields.io/badge/-Linux-71aa29"/>
+<img src="https://img.shields.io/badge/-Git-purple"/>
+<img src="https://img.shields.io/badge/-Maven-grey"/>
+<img src="https://img.shields.io/badge/-Python-blue"/>
+</div>
+
 
 ---
 
@@ -65,7 +89,14 @@
 
 ### 🖥️ Open-Source Projects
 
-[![bilibili](https://github-readme-stats.vercel.app/api/pin/?username=Yuejia-Lai&repo=bilibili)](https://github.com/Yuejia-Lai/bilibili)
+<div align="center">
+<a href="https://github.com/Yuejia-Lai/bilibili">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuejia-Lai&repo=bilibili"/>
+</a>
+</div>
 
-
-[![simpleframework](https://github-readme-stats.vercel.app/api/pin/?username=Yuejia-Lai&repo=simpleframework)](https://github.com/Yuejia-Lai/simpleframework)
+<div align="center">
+<a href="https://github.com/Yuejia-Lai/simpleframework">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuejia-Lai&repo=simpleframework"/>
+</a>
+</div>
